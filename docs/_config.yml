@@ -3,7 +3,7 @@ subtitle                  : "where Joel records his evolution into product & tec
 masthead_title            : "Tastebud Studio"
 description               : &description "" 
 name                      : &name "Joel Taylor" # &name is a YAML anchor which can be *referenced later
-logo                      : /assets/img/t-c-logo-75x75.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                      : /assets/img/t-c-logo-75x75.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 url                       : https://www.taylor-consulting.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                   : "/" # the subpath of your site, e.g. "/blog"
 words_per_minute          : 200
