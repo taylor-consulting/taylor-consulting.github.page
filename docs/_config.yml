@@ -1,0 +1,97 @@
+title                     : "Joel's Product & Tech Blog!"
+subtitle                  : "where Joel records his evolution into product & tech."
+masthead_title            : "Tastebud Studio"
+description               : &description "" 
+name                      : &name "Joel Taylor" # &name is a YAML anchor which can be *referenced later
+logo                      : /assets/img/t-c-logo-75x75.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+url                       : https://www.taylor-consulting.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                   : "/" # the subpath of your site, e.g. "/blog"
+words_per_minute          : 200
+enable_copy_code_button   : false
+
+# search
+lunr:
+  search_within_pages: true
+
+footer:
+  since: "2025"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+      toc: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/img/joel-taylor-square.png"
+  bio              : "Recording my opinions & learnings on product & tech. These are my opinions, not my employer's. There is no warranty. Because it work for me doesn't mean it will work for you, always consult your own experts."
+  location         : "Milwaukee, WI"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/j031"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joelmtaylor"
+
+
+# permalink: /:categories/:title/
+timezone: America/Chicago
+
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+# category_archive:
+#   type: liquid
+#   path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
