@@ -1,6 +1,6 @@
-title                     : "Joel's Product & Tech Blog, Disclaimer: The views expressed here are my opinions & learnings on product & tech, not my employer's. There is no warranty and just because it work for me doesn't mean it will work for you, always consult your own experts."
+title                     : "Joel Taylor's Product & Tech Blog, Disclaimer: The views expressed here are my opinions & learnings on product & tech, not my employer's. There is no warranty and just because it work for me doesn't mean it will work for you, always consult your own experts."
 subtitle                  : "where Joel records his evolution into product & tech."
-masthead_title            : "Tastebud Studio"
+masthead_title            : "Joel Taylor, Product Manager"
 description               : &description "" 
 name                      : &name "Joel Taylor" # &name is a YAML anchor which can be *referenced later
 logo                      : /assets/img/t-c-logo-75x75.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
