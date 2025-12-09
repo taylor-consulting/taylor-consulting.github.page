@@ -1,10 +1,8 @@
 ---
 layout: single
-title: Terms & Privacy
+title: Terms of Use & Privacy Notice
 permalink: /terms-and-privacy/
 ---
-
-# Terms of Use & Privacy Notice
 
 _Last updated: 2025-12-09_
 
