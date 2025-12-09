@@ -7,3 +7,5 @@ main:
   url: "/tags/"
 - title: "Terms & Privacy"
   url: "/terms-and-privacy/"
+- title: "Contact"
+  url: "/contact/"
