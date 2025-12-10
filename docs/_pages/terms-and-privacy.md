@@ -99,26 +99,41 @@ These sites are hosted on **[GitHub Pages](https://pages.github.com/)**.
 - This logging is handled by GitHub, not directly by me.
 - For more information about GitHub’s practices, please see the **GitHub Privacy Statement** on [github.com](https://github.com).
 
-### 2.4 Cookies
+### 2.4 Formspree
+
+This site uses **[Formspree](https://formspree.io)** to handle contact form submissions.
+
+- Formspree is a form handling service.
+- If you wish to contact me, you can use the contact form on this site. It will reduce the amount of spam I receive.
+- Formspree will store your information that you share on the form. 
+
+I use this information to:
+
+- track you messages
+- respond to you
+
+For details on how Formspree handles data, see their own documentation and privacy policy on [formspree.io](https://formspree.io).
+
+### 2.5 Cookies
 
 - I do **not** set any cookies for tracking or advertising.
 - Fathom Analytics is configured to run **without cookies**.
 - GitHub Pages or embedded third-party services (for example, an embedded video or social media widget, if I add one) may set their own cookies. Those are governed by the third party’s policies.
 
-### 2.5 Data Security
+### 2.6 Data Security
 
 These are static sites with no login system and minimal data collection, which reduces risk. However:
 
 - No system or transmission over the internet is ever 100% secure.
 - I cannot guarantee absolute security but take reasonable care in how I configure and maintain the sites.
 
-### 2.6 Children’s Privacy
+### 2.7 Children’s Privacy
 
 These sites are not specifically directed at children.
 
 - If you are under the age required by your local laws to consent to online services, please use these sites only with the involvement of a parent or guardian.
 
-### 2.7 Changes to This Notice
+### 2.8 Changes to This Notice
 
 I may update these Terms of Use and this Privacy Notice from time to time.
 
