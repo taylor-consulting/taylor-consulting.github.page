@@ -44,3 +44,4 @@ _site/
 .bundle/
 vendor/
 *.log
+docs/jekyll_trace.txt
