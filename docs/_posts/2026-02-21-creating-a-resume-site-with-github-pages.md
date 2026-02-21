@@ -48,11 +48,7 @@ Make it **public** — GitHub Pages is free for public repositories. If you want
 
 ## Step 2: Choose a Theme
 
-Jekyll has a huge ecosystem of themes. For a resume site, I used Minimal Mistakes:
-
-| Theme | Best for | Link |
-|---|---|---|
-| **Minimal Mistakes** | Clean, flexible, feature-rich | [mmistakes.github.io](https://mmistakes.github.io/minimal-mistakes/) |
+Jekyll has a huge ecosystem of themes. For my resume site, I used Minimal Mistakes: [mmistakes.github.io](https://mmistakes.github.io/minimal-mistakes/).
 
 **Minimal Mistakes** is greate if you want a portfolio + blog hybrid (which is what this site uses).
 
@@ -63,28 +59,14 @@ Most themes can be enabled via `remote_theme` in your `_config.yml`, which means
 This file controls your entire site. Here's a minimal starting config using Minimal Mistakes:
 
 ```yaml
-title: "Jane Doe — Product Manager"
-description: "Portfolio and blog for Jane Doe"
-url: "https://janedoe.github.io"
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-
-author:
-  name: "Jane Doe"
-  bio: "Product manager based in Milwaukee. I build things people actually use."
-  location: "Milwaukee, WI"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/janedoe"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/janedoe"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-```
+title: "Resume"
+permalink: /resume/
+excerpt: "Senior Technical Product Manager with 15+ years experience in SaaS enterprise software for asset-intensive industries."
+date: 2026-02-21
+toc: true
+toc_label: "Contents"
+toc_icon: "list"
+---
 
 A few things worth considering:
 
@@ -116,7 +98,7 @@ author_profile: true
 
 ## Education
 
-**B.S. Computer Science** — University of Wisconsin–Madison *(2015–2019)*
+**B.S. Computer Science** — Carroll University
 
 ## Skills
 
