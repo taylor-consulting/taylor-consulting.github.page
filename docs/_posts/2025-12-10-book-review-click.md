@@ -1,6 +1,20 @@
-
-Here’s a short blog post you can use or adapt:
-
+---
+title: "Click by Jake Knapp - Book Review"
+date: 2025-12-10
+last_modified_at: 2025-12-10
+categories:
+  - Technology
+  - Book Review
+tags:
+  - jake-knapp
+  - book-review
+  - design-sprints
+  - product-management
+  - product-design
+excerpt: "A book review of the book 'Click' by Jake Knapp. With my two takeaways about setting the founding hypothesis and the importance of reactions over feedback."
+toc: true
+toc_label: "Contents"
+toc_icon: "list"
 ---
 
 ### Making Products *Click*: Lessons from Jake Knapp
