@@ -35,3 +35,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Jekyll and Ruby #
+##################
+_site/
+.jekyll-metadata
+.jekyll-cache/
+.bundle/
+vendor/
+*.log
+docs/jekyll_trace.txt
