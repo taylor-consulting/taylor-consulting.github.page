@@ -10,7 +10,7 @@ This document applies to:
 
 - **taylor-consulting.com** (product and tech blog site)
 
-Operated by **Joel Taylor** (“I”, “me”, or “my”).
+Operated by **Joel Taylor, Taylor Consulting LLC** (“I”, “me”, or “my”).
 
 By accessing or using this site, you agree to the following Terms of Use and Privacy Notice. If you do not agree, please do not use the site.
 
