@@ -66,7 +66,7 @@ date: 2026-02-21
 toc: true
 toc_label: "Contents"
 toc_icon: "list"
----
+```
 
 A few things worth considering:
 
