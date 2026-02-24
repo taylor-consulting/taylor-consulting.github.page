@@ -1,4 +1,4 @@
-title                     : "Joel Taylor's Product & Tech Blog, Disclaimer: The views expressed here are my opinions & learnings on product & tech, not my employer's. There is no warranty and just because it work for me doesn't mean it will work for you, always consult your own experts."
+title                     : "Joel Taylor's Product & Tech Blog, Disclaimer: The views expressed here are my opinions & learnings on product & tech, not my employer's. There is no warranty and just because it works for me doesn't mean it will work for you, always consult your own experts."
 subtitle                  : "where Joel records his evolution into product & tech."
 masthead_title            : "Joel Taylor, Product Manager"
 description               : &description "" 
@@ -48,7 +48,7 @@ include:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/joel-taylor-square.png"
-  bio              : "I like to learn about new ways of working, co-creating with others, and sharing my learnings. I've worked in many parts of the software industry from programmer & analyst to my current role in product management. I'm currently in the process of becoming a better speaker and leader through toastmasters."
+  bio              : "I like to learn about new ways of working, co-create with others, and share my learnings. I've worked in many parts of the software industry from programmer & analyst to my current role in product management. I'm currently in the process of becoming a better speaker and leader through toastmasters."
   location         : "Milwaukee, WI"
   links:
     - label: "GitHub"
