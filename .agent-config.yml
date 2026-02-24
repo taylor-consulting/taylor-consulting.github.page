@@ -1,0 +1,26 @@
+# Agent Workspace Configuration for taylor-consulting.github.page
+
+site:
+  name: "Joel Taylor's Product & Tech Blog"
+  url: "https://www.taylor-consulting.com"
+  author: "Joel Taylor"
+  timezone: "America/Chicago"
+
+blog:
+  posts_dir: "docs/_posts"
+  drafts_dir: "docs/_drafts"
+  categories:
+    - "Technology"
+    - "Product Management"
+    - "Product Design"
+    - "Book Review"
+  default_tags:
+    - "product-management"
+    - "technology"
+    - "learning"
+
+pages:
+  pages_dir: "docs/_pages"
+
+git:
+  main_branch: "main"
