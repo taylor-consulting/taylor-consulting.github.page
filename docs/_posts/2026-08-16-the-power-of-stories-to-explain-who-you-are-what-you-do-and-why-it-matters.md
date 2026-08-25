@@ -54,28 +54,28 @@ That's it; she proposes 15 minutes of note-taking a week and a folder of easy-to
 
 There are a lot of ways to tell stories. These are the four I use most, learned over years of doing demos for work, Toastmasters training, and books I've read. I've included the sources so you can do a deeper dive on your own later at the library. A few more types are listed under further reading.
 
-#### **The introduction/elevator story**
+### The introduction/elevator story
 Who you help, what problems you solve, your approach, one proof point where you have had a recent success.
 
 This is often useful when you bump into someone in the break room and can set the scene for follow ups. If folks know what you are good at, it will help them remember you when a similar problem arises you might be able to help them with.
 
 Sources: Cynthia Johnson, [*Platform: The Art and Science of Personal Branding*](https://www.goodreads.com/en/book/show/40983156-platform).
 
-#### **The origin story**
+### The origin story
 For you AND your team (why it exists, what problem brought people together).
 
 I find this useful for those non-profit groups I'm affiliated with. For example, when talking with folks about Toastmasters they want to know what it does. Who is involved and what is the reach. And most importantly can I trust this group with my time or resources?
 
 Sources: Carmine Gallo, [*Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds*](https://www.goodreads.com/en/book/show/17910144-talk-like-ted).
 
-#### **The challenge-and-change story**
+### The challenge-and-change story
 Situation → tension → choice → result → lesson.
 
 For interviews, reviews, positioning. This is when someone asks you for a time something happened. In interviews I often see this as a tell me about a time you experienced a disagreement about the path forward.
 
 Sources: Melody Wilding, [*Managing Up: How to Get What You Need from the People in Charge*](https://www.penguinrandomhouse.com/books/721785/managing-up-by-melody-wilding/); The Moth, ["Storytelling Tips & Tricks"](https://www.themoth.org/tell-your-story/storytelling-tips-tricks).
 
-#### **What? So what? Now What?**
+### What? So what? Now What?
 The first what is a story that sets the scene about a problem or challenge. Then talk why it was important to fix and how you fixed it. Then tell them how to do this themselves.
 
 This is actually a well known reflection pattern. But what makes it powerful for self-reflection also makes it a good storytelling format. Rick from my Toastmasters group brought up this format as a pattern for keynotes. He suggested stringing together several of these in 3-7 minute formats to get a keynote length speech that is engaging.
@@ -84,7 +84,7 @@ Sources: Rolfe et al., ["What? So what? Now what?" reflective framework](https:/
 
 ## DIY: Capturing your own stories
 
-#### Example, ~1 minute social media video
+### Example, ~1 minute social media video
 
 > Title: **Our Toastmasters club superpower is storytelling**
 >
@@ -111,7 +111,7 @@ Sources: Rolfe et al., ["What? So what? Now what?" reflective framework](https:/
 >
 > Last Review: **Aug. 16, 2026**
 
-#### Templates
+### Templates
 
 Keep it as simple as possible. I use a note taking app so some of these components are actually metadata also called frontmatter in the note page. Title is the name of the file. The one-sentence and 1-2 minute pitch are the actual note body. It allows me to query it into a table and easily sort. That's optional and only if you have a lot of stories.
 
